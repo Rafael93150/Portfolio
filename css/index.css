@@ -1,7 +1,10 @@
-body{
+#divtitre{
     background-color: #555;
+    height: auto;
 }
 
-h1{
+#divtitre h1{
     color:white;
+    margin-left: auto;
+    margin-right: auto;
 }
