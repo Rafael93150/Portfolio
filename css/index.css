@@ -4,5 +4,7 @@
 }
 
 #divtitre h1{
-    color:red;
+    color:white;
+    padding-left: auto;
+    padding-right: auto;
 }
